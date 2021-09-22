@@ -143,7 +143,7 @@ ongr_elasticsearch:
 sulu_article:
     documents:
         article:
-            view: AppBundle\Document\ArticleViewDocument
+            view: App\Document\ArticleViewDocument
 ```
 
 #### 3. Add listener to set custom value
